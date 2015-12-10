@@ -1,0 +1,36 @@
+{
+	"theme": "Flatland Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_white_space": "all",
+	"font_face": "Menlo",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Emmet",
+		"Emmet Css Snippets",
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"soda_classic_tabs": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"vintageous_autoindent": true,
+	"vintageous_enable_cmdline_mode": true,
+	"vintageous_hlsearch": true,
+	"vintageous_incsearch": true,
+	"vintageous_reset_mode_when_switching_tabs": true,
+	"vintageous_search_mode": "smart_case",
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_use_sys_clipboard": false,
+	"vintageous_verbose": false,
+	"word_wrap": true
+}

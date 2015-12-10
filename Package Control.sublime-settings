@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BlockCursorEverywhere",
+		"BracketHighlighter",
+		"C Improved",
+		"C++ Snippets",
+		"CMakeSnippets",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CursorRuler",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"Google Spell Check",
+		"LaTeXing",
+		"Less2Css",
+		"Origami",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"TeX Live Package Manager",
+		"Theme - Flatland",
+		"Vintage-Origami",
+		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/jlangston/BlockCursorEverywhere"
+	]
+}
