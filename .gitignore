@@ -1,2 +1,6 @@
-Package\ Control.cache/*
-*cache*
+*
+!README.md
+!.gitignore
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!*-keymap
