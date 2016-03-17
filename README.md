@@ -6,4 +6,4 @@ The files should be located in:
 - Windows: %APPDATA%\Sublime Text 3/Packages/User
 - Linux: ~/.config/sublime-text-3/Packages/User
 
-
+To install package control plugin, please refer https://packagecontrol.io/installation
